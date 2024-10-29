@@ -1,0 +1,14 @@
+C:\Users\Exiade\RiderProjects\asd2\asd2\bin\Debug\net9.0\asd2.exe
+C:\Users\Exiade\RiderProjects\asd2\asd2\bin\Debug\net9.0\asd2.deps.json
+C:\Users\Exiade\RiderProjects\asd2\asd2\bin\Debug\net9.0\asd2.runtimeconfig.json
+C:\Users\Exiade\RiderProjects\asd2\asd2\bin\Debug\net9.0\asd2.dll
+C:\Users\Exiade\RiderProjects\asd2\asd2\bin\Debug\net9.0\asd2.pdb
+C:\Users\Exiade\RiderProjects\asd2\asd2\obj\Debug\net9.0\asd2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Exiade\RiderProjects\asd2\asd2\obj\Debug\net9.0\asd2.AssemblyInfoInputs.cache
+C:\Users\Exiade\RiderProjects\asd2\asd2\obj\Debug\net9.0\asd2.AssemblyInfo.cs
+C:\Users\Exiade\RiderProjects\asd2\asd2\obj\Debug\net9.0\asd2.csproj.CoreCompileInputs.cache
+C:\Users\Exiade\RiderProjects\asd2\asd2\obj\Debug\net9.0\asd2.dll
+C:\Users\Exiade\RiderProjects\asd2\asd2\obj\Debug\net9.0\refint\asd2.dll
+C:\Users\Exiade\RiderProjects\asd2\asd2\obj\Debug\net9.0\asd2.pdb
+C:\Users\Exiade\RiderProjects\asd2\asd2\obj\Debug\net9.0\asd2.genruntimeconfig.cache
+C:\Users\Exiade\RiderProjects\asd2\asd2\obj\Debug\net9.0\ref\asd2.dll
